@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0027-remove-element) |
+| [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1929-concatenation-of-array) |
@@ -28,11 +29,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
+| [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
