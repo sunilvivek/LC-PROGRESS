@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
