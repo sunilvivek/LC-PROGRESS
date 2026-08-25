@@ -45,10 +45,7 @@
 | [0344-reverse-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0344-reverse-string) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
-## Sliding Window
-|  |
-| ------- |
-| [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+
 ## Math
 |  |
 | ------- |
@@ -57,8 +54,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0141-linked-list-cycle) |
-## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
-| [0141-linked-list-cycle](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0141-linked-list-cycle) |
+
 <!---LeetCode Topics End-->
