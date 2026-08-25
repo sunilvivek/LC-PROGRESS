@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0283-move-zeroes) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1920-build-array-from-permutation) |
@@ -27,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
