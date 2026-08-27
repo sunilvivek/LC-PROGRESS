@@ -36,6 +36,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0141-linked-list-cycle) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -43,6 +44,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0344-reverse-string) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
@@ -51,6 +53,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
