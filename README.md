@@ -12,6 +12,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0643-maximum-average-subarray-i) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1920-build-array-from-permutation) |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
