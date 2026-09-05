@@ -22,11 +22,13 @@
 | [1920-build-array-from-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3904-smallest-stable-index-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0209-minimum-size-subarray-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
+| [3904-smallest-stable-index-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
