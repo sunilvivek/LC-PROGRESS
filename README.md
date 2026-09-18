@@ -56,6 +56,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -69,6 +70,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0344-reverse-string) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0202-happy-number) |
