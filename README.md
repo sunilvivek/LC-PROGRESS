@@ -40,6 +40,7 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1929-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
