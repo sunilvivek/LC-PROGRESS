@@ -108,10 +108,7 @@
 | [0035-search-insert-position](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0287-find-the-duplicate-number) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0287-find-the-duplicate-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0287-find-the-duplicate-number) |
+
 ## Pigeonhole Principle
 |  |
 | ------- |
