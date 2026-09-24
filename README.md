@@ -28,6 +28,7 @@
 | [1920-build-array-from-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -98,6 +99,7 @@
 | [0202-happy-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3871-count-commas-in-range-ii) |
 ## Linked List
