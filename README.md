@@ -89,6 +89,7 @@
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3498-reverse-degree-of-a-string) |
@@ -201,8 +202,10 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
