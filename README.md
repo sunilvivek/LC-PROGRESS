@@ -17,6 +17,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0287-find-the-duplicate-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0724-find-pivot-index) |
@@ -71,6 +72,7 @@
 | [0202-happy-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
@@ -158,6 +160,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 ## Counting
 |  |
