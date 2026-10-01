@@ -85,6 +85,7 @@
 | [0012-integer-to-roman](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0344-reverse-string) |
@@ -205,10 +206,12 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
