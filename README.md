@@ -86,6 +86,7 @@
 | [0013-roman-to-integer](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0344-reverse-string) |
@@ -155,6 +156,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -213,5 +215,10 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
