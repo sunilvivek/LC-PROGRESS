@@ -44,6 +44,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3498-reverse-degree-of-a-string) |
@@ -88,6 +89,7 @@
 | [0020-valid-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
@@ -105,6 +107,7 @@
 | [0012-integer-to-roman](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -221,4 +224,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
