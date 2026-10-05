@@ -94,6 +94,7 @@
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0856-score-of-parentheses) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -215,6 +216,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -223,6 +225,7 @@
 | [0020-valid-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Backtracking
 |  |
