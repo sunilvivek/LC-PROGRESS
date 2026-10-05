@@ -90,6 +90,7 @@
 | [0058-length-of-last-word](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0131-palindrome-partitioning) |
 | [0344-reverse-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -231,6 +233,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
