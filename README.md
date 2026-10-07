@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0724-find-pivot-index) |
@@ -75,6 +76,7 @@
 | [0219-contains-duplicate-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
@@ -219,6 +221,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -240,4 +243,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
