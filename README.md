@@ -19,6 +19,7 @@
 | [0287-find-the-duplicate-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0724-find-pivot-index) |
@@ -78,6 +79,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
