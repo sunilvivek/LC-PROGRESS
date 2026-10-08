@@ -22,6 +22,7 @@
 | [0575-distribute-candies](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0835-image-overlap) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
@@ -81,6 +82,7 @@
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
+| [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
 ## Binary Search
 |  |
 | ------- |
@@ -249,4 +252,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
