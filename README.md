@@ -83,6 +83,7 @@
 | [0575-distribute-candies](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
+| [0791-custom-sort-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0791-custom-sort-string) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -103,6 +104,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
+| [0791-custom-sort-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0791-custom-sort-string) |
 | [0856-score-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0856-score-of-parentheses) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
+| [0791-custom-sort-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0791-custom-sort-string) |
 ## Counting
 |  |
 | ------- |
