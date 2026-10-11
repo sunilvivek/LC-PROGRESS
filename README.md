@@ -33,6 +33,7 @@
 | [1920-build-array-from-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -275,4 +276,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0451-sort-characters-by-frequency) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
