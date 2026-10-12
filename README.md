@@ -35,6 +35,7 @@
 | [1929-concatenation-of-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -91,6 +92,7 @@
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
 | ------- |
@@ -221,6 +223,7 @@
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
