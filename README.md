@@ -37,6 +37,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3904-smallest-stable-index-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -194,6 +195,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0791-custom-sort-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0791-custom-sort-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
