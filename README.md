@@ -95,6 +95,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
 | [0791-custom-sort-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0791-custom-sort-string) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -175,6 +176,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0508-most-frequent-subtree-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -220,12 +222,14 @@
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0508-most-frequent-subtree-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0508-most-frequent-subtree-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
@@ -329,4 +333,17 @@
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0508-most-frequent-subtree-sum) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Lifting
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
