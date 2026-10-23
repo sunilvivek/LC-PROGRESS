@@ -39,6 +39,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3904-smallest-stable-index-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -298,6 +299,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0389-find-the-difference](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Monotonic Stack
 |  |
 | ------- |
