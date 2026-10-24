@@ -84,6 +84,7 @@
 | [0141-linked-list-cycle](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0389-find-the-difference) |
@@ -116,6 +117,7 @@
 | [0125-valid-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0318-maximum-product-of-word-lengths) |
