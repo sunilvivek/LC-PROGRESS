@@ -93,6 +93,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0508-most-frequent-subtree-sum) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
@@ -127,6 +128,7 @@
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
@@ -311,10 +313,12 @@
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
 ## Heap (Priority Queue)
 |  |
