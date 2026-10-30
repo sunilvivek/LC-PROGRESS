@@ -93,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0451-sort-characters-by-frequency) |
@@ -156,6 +157,7 @@
 | [0066-plus-one](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0202-happy-number) |
+| [0398-random-pick-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0398-random-pick-index) |
 | [0836-rectangle-overlap](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -383,4 +385,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0347-top-k-frequent-elements) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
