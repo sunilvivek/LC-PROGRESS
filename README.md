@@ -21,6 +21,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
@@ -159,6 +160,7 @@
 | [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0202-happy-number) |
 | [0398-random-pick-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0398-random-pick-index) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
