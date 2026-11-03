@@ -21,6 +21,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
@@ -99,6 +100,7 @@
 | [0398-random-pick-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0447-number-of-boomerangs](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0447-number-of-boomerangs) |
 | [0451-sort-characters-by-frequency](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0508-most-frequent-subtree-sum) |
@@ -161,6 +163,7 @@
 | [0067-add-binary](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0202-happy-number) |
 | [0398-random-pick-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0398-random-pick-index) |
+| [0447-number-of-boomerangs](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0836-rectangle-overlap) |
