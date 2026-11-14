@@ -35,6 +35,7 @@
 | [0721-accounts-merge](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0835-image-overlap) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1480-running-sum-of-1d-array) |
@@ -259,6 +260,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0721-accounts-merge](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0721-accounts-merge) |
 | [0791-custom-sort-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0791-custom-sort-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
@@ -301,6 +303,7 @@
 | [0402-remove-k-digits](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -373,6 +376,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0451-sort-characters-by-frequency) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Bucket Sort
 |  |
 | ------- |
