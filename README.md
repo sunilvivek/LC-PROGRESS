@@ -46,6 +46,7 @@
 | [1920-build-array-from-permutation](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -266,6 +267,7 @@
 | [0791-custom-sort-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0791-custom-sort-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0893-groups-of-special-equivalent-strings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
 |  |
@@ -310,6 +312,7 @@
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3727-maximum-alternating-sum-of-squares) |
