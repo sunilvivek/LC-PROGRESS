@@ -30,6 +30,7 @@
 | [0575-distribute-candies](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0721-accounts-merge) |
@@ -121,6 +122,7 @@
 | [0575-distribute-candies](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0609-find-duplicate-file-in-system) |
+| [0621-task-scheduler](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0621-task-scheduler) |
 | [0705-design-hashset](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0705-design-hashset) |
 | [0721-accounts-merge](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0721-accounts-merge) |
 | [0791-custom-sort-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0791-custom-sort-string) |
@@ -263,6 +265,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0721-accounts-merge) |
 | [0791-custom-sort-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0791-custom-sort-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -275,6 +278,7 @@
 | [0347-top-k-frequent-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0621-task-scheduler) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -309,6 +313,7 @@
 | [0316-remove-duplicate-letters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0409-longest-palindrome) |
+| [0621-task-scheduler](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0678-valid-parenthesis-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -384,6 +389,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0621-task-scheduler) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sunilvivek/LC-PROGRESS/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Bucket Sort
 |  |
