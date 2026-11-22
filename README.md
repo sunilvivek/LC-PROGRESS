@@ -169,6 +169,7 @@
 | [1002-find-common-characters](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1002-find-common-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilvivek/LC-PROGRESS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/sunilvivek/LC-PROGRESS/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sunilvivek/LC-PROGRESS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
